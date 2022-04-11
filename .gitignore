@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .gradle/
+docker-compose-origin.yml
 
 ### STS ###
 .apt_generated
